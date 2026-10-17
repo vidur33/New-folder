@@ -1,0 +1,36 @@
+
+clear                                                                                      
+   4 ls -l                                                                                      
+   5 ls                                                                                         
+   6 git init                                                                                   
+   7 git status                                                                                 
+   8 git add testing.py                                                                         
+   9 git status                                                                                 
+  10 git status                                                                                 
+  11 git rm --cached                                                                            
+  12 git status                                                                                 
+  13 git rm --cached testing.py                                                                 
+  14 git status                                                                                 
+  15 git add testing.py                                                                         
+  16 gi status                                                                                  
+  17 clear                                                                                      
+  18 git status                                                                                 
+  19 git commit -m "yaiii"                                                                      
+  20 git cimmit - m "yaii"                                                                      
+  21 git commit -m "yaii"                                                                       
+  22 clear                                                                                      
+  23 git config --global user.name "vidur33"                                                    
+  24 git config --global user.email "sharmavidur26@gmail.com"                                   
+  25 git config --global --list                                                                 
+  26 git status                                                                                 
+  27 git commit -m "yaiii"                                                                      
+  28 git remote -v                                                                              
+  29 rm testing.py                                                                              
+  30 ls                                                                                         
+  31 clear                                                                                      
+  32 git status                                                                                 
+  33 git restore testing.py                                                                     
+  34 ls                                                                                         
+  35 git status                                                                                 
+  36  git config --global user.name                                                             
+
