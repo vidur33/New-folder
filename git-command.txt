@@ -32,5 +32,7 @@ clear
   33 git restore testing.py                                                                     
   34 ls                                                                                         
   35 git status                                                                                 
-  36  git config --global user.name                                                             
+  36  git config --global user.name        
+
+this is some new changes
 
